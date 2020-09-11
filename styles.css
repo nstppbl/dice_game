@@ -1,6 +1,6 @@
 .container {
   width: 80%;
-  padding-top: 3%;
+  padding-top: 1%;
   margin: auto;
   text-align: center;
 }
@@ -11,6 +11,18 @@
   display: inline-block;
   height: 200px;
   width: 300px;
+}
+
+.btn{
+  background-color: #fddb3a;
+  border: none;
+  font-size: 2rem;
+  font-family: 'Quicksand', sans-serif;
+  margin-top: 5%;
+  border-radius: 8px;
+  border: solid;
+
+
 }
 
 body {
@@ -36,8 +48,9 @@ img {
 }
 
 footer {
-  margin-top: 10%;
-  padding-top: 5%;
+  margin-top: 4%;
+  padding-top: 4%;
+  padding-bottom: 2%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Quicksand', cursive;
